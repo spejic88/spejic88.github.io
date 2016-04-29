@@ -10,7 +10,7 @@ title: It's Always Sunny In Bosnia and Herzegovina
 email: spejic88@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi and welcome to my personal blog.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: pejicsinisa
 github_username:  spejic88
