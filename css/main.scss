@@ -29,22 +29,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-.post-content {
-    width: 100%;
-    
-    .blog-info {
-        width: 100%;
-        margin-bottom: 2rem;
-        background-color: #eceeef;
-        padding: 4rem 2rem;
-    }
-
-    .blog-posts {
-
-    }
-}
-
-
 
 // Use media queries like this:
 // @include media-query($on-palm) {
