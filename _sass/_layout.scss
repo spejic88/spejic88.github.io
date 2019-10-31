@@ -1,6 +1,8 @@
 /**
  * Site header
  */
+ @import url('https://fonts.googleapis.com/css?family=Abel:400|Griffy:400');
+
 .site-header {
     &:before {
         content: "";
@@ -24,7 +26,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    font-family: 'Aladin', cursive;
+    font-family: 'Abel', sans-serif;
 
 
     &,
