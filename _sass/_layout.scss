@@ -210,11 +210,14 @@
 }
 
 .post-list {
+    padding: 30px 0px;
     margin-left: 0;
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eceeef;
+        margin-bottom: 50px;
     }
 }
 
@@ -225,7 +228,8 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 28px;
+    font-weight: 300;
 }
 
 
