@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -27,6 +27,22 @@ $content-width:    1024px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
+
+.post-content {
+    width: 100%;
+    
+    .blog-info {
+        width: 100%;
+        margin-bottom: 2rem;
+        background-color: #eceeef;
+        padding: 4rem 2rem;
+    }
+
+    .blog-posts {
+
+    }
+}
 
 
 
