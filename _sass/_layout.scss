@@ -132,6 +132,17 @@
 }
 
 
+figure {
+    &.bg-center {
+
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+    }
+}
+
+
 ul.about-me-list {
     padding: 0px;
 
@@ -308,15 +319,3 @@ ul.about-me-list {
     font-weight: 300;
 }
 
-
-figure {
-
-
-    &.bg-center {
-
-        img {
-            display: block;
-            margin: o auto;
-        }
-    }
-}
