@@ -17,18 +17,21 @@ permalink: /about/
 <div class="wrapper">
   <div class="row">
     <div class="col-md-12">
-      Hi, I am Sinisa !
-      I am a software engineer and devops guy interested in all things digital.
+      <ul class="about-me-list">
+        <li>Hi, I am Sinisa !</li>
 
-      I currently work at the Mercedes-Benz, on fully automated, driverless system developed by Daimler and Bosch.
+        <li>I am a software engineer and devops guy interested in all things digital.</li>
 
-      I was born in Yugoslavia, but currently live and work in Germany.
+        <li>I currently work at the Mercedes-Benz, on fully automated, driverless system developed by Daimler and Bosch.</li>
 
-      I love developing software in Python, C++, Javascript, PHP.
+        <li>I was born in Yugoslavia, but currently live and work in Germany.</li>
 
-      I am big fan of the WEB ;)
+        <li>I love developing software in Python, C++, Javascript, PHP.</li>
 
-      In spare time I practice Business and Philosophy.
+        <li>I am big fan of the WEB ;)</li>
+
+        <li>In spare time I practice Business and Philosophy.</li>
+      </ul>
     </div>
   </div>
 </div>
