@@ -296,3 +296,16 @@
 .contact-list {
     font-weight: 300;
 }
+
+
+figure {
+
+
+    &.bg-center {
+
+        img {
+            display: block;
+            margin: o auto;
+        }
+    }
+}

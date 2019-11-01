@@ -3,21 +3,30 @@ layout: page
 title: About me
 permalink: /about/
 ---
-<div class="row">
-  <div class="col-6">
-    <h2>Sinisa Pejic</h2>
-    <img src="https://pbs.twimg.com/profile_images/979004015907426305/6y5zJJjd_400x400.jpg" />
-  </div>
-  <div class="col-6">
-    <h4>Personal Quote</h4>
-    <p>Here lies the body of William Jay. Who died maintaining his right of way He was right, dead right, as he sped along, But he's just as dead as if he were wrong.</p>
-  </div>
-  <div class="col-12">
-    <article>
-      <h4>Short Bio</h4>
 
-      <p>Here lies the body of William Jay. Who died maintaining his right of way He was right, dead right, as he sped along, But he's just as dead as if he were wrong.</p>
 
-    </article>
+
+<div class="container-fluid">
+
+<img src="{{site.baseurl}}/assets/img/my-image.jpg">
+
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      Hi, I am Sinisa !
+      I am a software engineer and devops guy interested in all things digital.
+
+      I currently work at the Mercedes-Benz, on fully automated, driverless system developed by Daimler and Bosch.
+
+      I was born in Yugoslavia, but currently live and work in Germany.
+
+      I love developing software in Python, C++, Javascript, PHP.
+
+      I am big fan of the WEB ;)
+
+      In spare time I practice Business and Philosophy.
+    </div>
   </div>
 </div>
