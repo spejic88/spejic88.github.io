@@ -20,7 +20,7 @@ permalink: /about/
 <div class="container-fluid">
 
   <figure class="bg-center">
-    <img src="{{site.baseurl}}/assets/img/royalty-free-wellcome.jpg">
+    <img src="{{site.baseurl}}/assets/img/hello-tee-t.png">
   </figure>
 
 </div>
