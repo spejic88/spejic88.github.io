@@ -17,7 +17,7 @@ permalink: /about/
   <div class="row">
     <div class="col-md-12">
       <ul class="about-me-list">
-        <li>Hi, I am Sinisa !</li>
+        <li>I am Sinisa Pejic</li>
 
         <li>I am a software engineer and devops dude interested in all things digital.</li>
 
