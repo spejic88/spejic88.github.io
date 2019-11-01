@@ -8,11 +8,13 @@ permalink: /about/
 
 <div class="container-fluid">
 
-<img src="{{site.baseurl}}/assets/img/my-image.jpg">
+<figure class="bg-center">
+<img src="{{site.baseurl}}/assets/img/royalty-free-wellcome.jpg">
+</figure>
 
 </div>
 
-<div class="container">
+<div class="wrapper">
   <div class="row">
     <div class="col-md-12">
       Hi, I am Sinisa !
