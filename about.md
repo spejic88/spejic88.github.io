@@ -5,18 +5,6 @@ permalink: /about/
 ---
 
 
-<div class="wrapper">
-  <div class="row">
-    <div class="col-md-12">
-      <ul class="about-me-list">
-        <li>Hi, I am Sinisa !</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-
-
 <div class="container-fluid">
 
   <figure class="bg-center">
@@ -29,6 +17,8 @@ permalink: /about/
   <div class="row">
     <div class="col-md-12">
       <ul class="about-me-list">
+        <li>Hi, I am Sinisa !</li>
+
         <li>I am a software engineer and devops dude interested in all things digital.</li>
 
         <li>I currently work at Mercedes-Benz, on fully automated, driverless system developed by Daimler and Bosch.</li>
