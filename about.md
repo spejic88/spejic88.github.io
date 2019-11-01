@@ -20,9 +20,9 @@ permalink: /about/
       <ul class="about-me-list">
         <li>Hi, I am Sinisa !</li>
 
-        <li>I am a software engineer and devops guy interested in all things digital.</li>
+        <li>I am a software engineer and devops dude interested in all things digital.</li>
 
-        <li>I currently work at the Mercedes-Benz, on fully automated, driverless system developed by Daimler and Bosch.</li>
+        <li>I currently work at Mercedes-Benz, on fully automated, driverless system developed by Daimler and Bosch.</li>
 
         <li>I was born in Yugoslavia, but currently live and work in Germany.</li>
 
