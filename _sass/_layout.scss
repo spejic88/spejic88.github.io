@@ -228,6 +228,10 @@ ul.about-me-list {
 /**
  * Page content
  */
+ .page-title {
+    font-weight: 100;
+ }
+ 
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -273,6 +277,7 @@ ul.about-me-list {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    font-weight: 100;
 
     @include media-query($on-laptop) {
         font-size: 36px;
