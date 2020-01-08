@@ -19,13 +19,11 @@ permalink: /about/
       <ul class="about-me-list">
         <li>I am Sinisa Pejic</li>
 
-        <li>I am a software engineer and devops dude interested in all things digital.</li>
+        <li>I am a software engineer interested in all things digital.</li>
 
-        <li>I currently work at Mercedes-Benz, on fully automated, driverless system developed by Daimler and Bosch.</li>
+        <li>I currently work at Mercedes-Benz as devops on driverless system developed by Daimler and Bosch.</li>
 
         <li>I was born in Yugoslavia, but currently live and work in Germany.</li>
-
-        <li>I love developing software in Python, C++, Javascript, PHP.</li>
 
         <li>I am big fan of the WEB ;)</li>
 
