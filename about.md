@@ -16,9 +16,10 @@ permalink: /about/
 <div class="wrapper">
   <div class="row">
     <div class="col-md-12">
-      <ul class="about-me-list">
-        <li>I am Sinisa Pejic</li>
-
+      <ul class="about-me-list"> 
+        
+        <li>Sinisa Pejic</li>
+        
         <li>I am a software engineer with deep passion for January football transfer window</li>
 
         <li>Crrently working at Mercedes-Benz as devops on driverless system developed by Daimler and Bosch.</li>
@@ -30,6 +31,7 @@ permalink: /about/
         <li>Big fan of the WEB ;)</li>
 
         <li>In spare time I practice Business and Philosophy.</li>
+        
       </ul>
     </div>
   </div>
