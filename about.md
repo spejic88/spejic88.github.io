@@ -20,15 +20,13 @@ permalink: /about/
         
         <li>Sinisa Pejic</li>
         
-        <li>I am a software engineer with deep passion for January football transfer window</li>
+        <li>I am a software engineer with deep passion for January transfer window in football</li>
 
         <li>Crrently working at Mercedes-Benz as devops on driverless system developed by Daimler and Bosch.</li>
 
-        <li>Was born in Yugoslavia, currently live in Germany.</li>
+        <li>Born in Yugoslavia, currently live in Germany.</li>
         
-        <li>Developing software in Javascript, Python, GO, PHP, C++/C, .</li>
-
-        <li>Big fan of the WEB ;)</li>
+        <li>Developing software in Python, GO, Javascript, PHP, C++/C, .</li>
 
         <li>In spare time I practice Business and Philosophy.</li>
         
